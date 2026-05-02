@@ -2,7 +2,7 @@
 
 > A B2B SaaS catering and inventory management platform for organizations that operate an internal canteen or food service.
 > This repository is a mirror created for preservation purposes. The original project was co-developed by [Alif Rahman](https://github.com/Rahman-Alif) and [MD.RIYAN ALAM SHUVO](https://github.com/riyanalamshuvo).
-> Original Repository: [https://github.com/betopia-btrp/KitchenFlow](KitchenFlow)
+> Original Repository: https://github.com/betopia-btrp/KitchenFlow
 
 ---
 
